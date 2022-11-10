@@ -1,16 +1,17 @@
-# First file about version control
+# Introduction to version control system
 
 ## sub-title
 
-To turn a text into cursive use one star from each side *cursive*
+Instruction - *To turn a text into cursive use one star from each side*
 
-To turn a text into bold use two stars from each side **HalfBold**
+Instruction - **To turn a text into bold use two stars from each side**
 
 ## list
 
-* 1
-* 2
-* 3
+* Use Hash symbol to create title
+* Use double Hash symbols to create sub-titles
+* Use one Star symbol to make a bullet point
+* Use Number and than dot to make a numerical list
 
 1. first element.
 2. second element.
