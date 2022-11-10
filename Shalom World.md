@@ -8,4 +8,7 @@ hello world!
 * 2
 * 3
 
+1. first element.
+2. second element.
+
 Introduction to version control
