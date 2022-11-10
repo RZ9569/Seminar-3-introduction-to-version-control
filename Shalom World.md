@@ -2,5 +2,6 @@ hello world!
 
 *cursive*
 
-Introduction to version control.
+**HalfBold**
 
+Introduction to version control
