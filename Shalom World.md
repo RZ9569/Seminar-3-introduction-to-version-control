@@ -1,9 +1,12 @@
 # First file about version control
-hello world!
 
-*cursive*
+## sub-title
 
-**HalfBold**
+To turn a text into cursive use one star from each side *cursive*
+
+To turn a text into bold use two stars from each side **HalfBold**
+
+## list
 
 * 1
 * 2
