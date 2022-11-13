@@ -2,7 +2,7 @@
 
 # Conflict 1
 
-In this branch I am created an another conflict with main branch
+Once again starting a conflict
 
 
 ## Conflict 2
