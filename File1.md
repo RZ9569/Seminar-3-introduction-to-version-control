@@ -5,8 +5,11 @@
 add some features
 
 Creating conflict with main branch
+I need conflict
+Now
 
 Shalom
+Hello
 
 ## Title 2
 
