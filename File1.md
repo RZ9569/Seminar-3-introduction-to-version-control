@@ -1,17 +1,17 @@
 **Hello, world**
 
-# Title 1
+# Conflict 1
 
 add some features
 
-Creating conflict with main branch
-I need conflict
+I need a conflict!!
+I need a conflict!!
 Now
 
 Shalom
 Hello
 
-## Title 2
+## Conflict 2
 
 this is my first work task
 
