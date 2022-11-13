@@ -4,7 +4,7 @@
 
 add some features
 
-Writing code
+Writing program with some bugs
 
 Shalom
 
