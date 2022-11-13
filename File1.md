@@ -2,14 +2,8 @@
 
 # Conflict 1
 
-add some features
+In this branch I am created an another conflict with main branch
 
-I need a conflict!!
-I need a conflict!!
-Now
-
-Shalom
-Hello
 
 ## Conflict 2
 
