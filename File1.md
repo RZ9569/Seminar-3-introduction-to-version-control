@@ -2,14 +2,9 @@
 
 # Conflict 1
 
-add some features
+How to create a conflict between barnaches?
 
-I need a conflict!!
-I need a conflict!!
-Now
-
-Shalom
-Hello
+Make changes
 
 ## Conflict 2
 
