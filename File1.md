@@ -4,7 +4,7 @@
 
 add some features
 
-Writing program with some bugs
+Creating conflict with main branch
 
 Shalom
 
